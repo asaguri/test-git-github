@@ -1,5 +1,5 @@
 # My test-git-github
-A test of Git and GitHub learned in DIO (Digital Innovation One)
+A test for Git/GitHub challenge, about learned in DIO (Digital Innovation One)
 
 ## Biblia Falada do meu amigo
 
